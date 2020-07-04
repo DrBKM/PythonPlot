@@ -1,2 +1,2 @@
 # PythonPlot
-Visualisation of a set odf data
+Visualisation of a set of experimental data
